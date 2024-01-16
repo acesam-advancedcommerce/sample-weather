@@ -1,0 +1,17 @@
+C:\Users\Staff\Desktop\WeatherApp3\bin\Debug\net7.0\WeatherApp3.exe
+C:\Users\Staff\Desktop\WeatherApp3\bin\Debug\net7.0\WeatherApp3.deps.json
+C:\Users\Staff\Desktop\WeatherApp3\bin\Debug\net7.0\WeatherApp3.runtimeconfig.json
+C:\Users\Staff\Desktop\WeatherApp3\bin\Debug\net7.0\WeatherApp3.dll
+C:\Users\Staff\Desktop\WeatherApp3\bin\Debug\net7.0\WeatherApp3.pdb
+C:\Users\Staff\Desktop\WeatherApp3\obj\Debug\net7.0\WeatherApp3.csproj.AssemblyReference.cache
+C:\Users\Staff\Desktop\WeatherApp3\obj\Debug\net7.0\WeatherApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Staff\Desktop\WeatherApp3\obj\Debug\net7.0\WeatherApp3.AssemblyInfoInputs.cache
+C:\Users\Staff\Desktop\WeatherApp3\obj\Debug\net7.0\WeatherApp3.AssemblyInfo.cs
+C:\Users\Staff\Desktop\WeatherApp3\obj\Debug\net7.0\WeatherApp3.csproj.CoreCompileInputs.cache
+C:\Users\Staff\Desktop\WeatherApp3\obj\Debug\net7.0\WeatherApp3.dll
+C:\Users\Staff\Desktop\WeatherApp3\obj\Debug\net7.0\refint\WeatherApp3.dll
+C:\Users\Staff\Desktop\WeatherApp3\obj\Debug\net7.0\WeatherApp3.pdb
+C:\Users\Staff\Desktop\WeatherApp3\obj\Debug\net7.0\WeatherApp3.genruntimeconfig.cache
+C:\Users\Staff\Desktop\WeatherApp3\obj\Debug\net7.0\ref\WeatherApp3.dll
+C:\Users\Staff\Desktop\WeatherApp3\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Staff\Desktop\WeatherApp3\obj\Debug\net7.0\WeatherApp3.csproj.CopyComplete
